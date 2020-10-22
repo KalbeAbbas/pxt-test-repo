@@ -20,7 +20,7 @@ jobs:
       - name: npm install
         run: |
           npm install -g pxt
-         npm install pxt-microbit@3.0.22
+          npm install pxt-microbit@3.0.22
       - name: build
         run: |
           pxt install

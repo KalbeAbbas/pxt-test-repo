@@ -3,6 +3,6 @@
 
    #include "MicroBit.h"
 
-   //#include "mbed.h"
+   #include "mbed.h"
 
    #endif
